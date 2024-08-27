@@ -63,26 +63,26 @@
 <br>
 <br>
 <h1 align="center"> 💻 Projects </h1>
-<h4>🔗 <a href="https://github.com/steviesc/salinaka-e-commerce">Salinaka-e-commerce</a></h4>
+<h4>🔗 <a href="https://github.com/steviesc/Portfolio-Salinaka">Salinaka-e-commerce</a></h4>
 <p>A feature-rich e-commerce platform designed to enhance user experience and boost sales.</p>
 <ul>
     <li><strong>Tech Stack:</strong> React, Redux, MongoDB, AWS</li>
     <li><strong>Highlights:</strong> 35% increase in sales revenue, 30% decrease in bounce rates.</li>
 </ul>
 
-<h4>🔗 <a href="https://github.com/steviesc/sneat-admin">Sneat-Admin Website</a></h4>
+<h4>🔗 <a href="https://github.com/steviesc/Portfolio-Sneat">Sneat-Admin Website</a></h4>
 <p>A comprehensive admin panel for managing e-commerce operations with a focus on performance and scalability.</p>
 <ul>
     <li><strong>Tech Stack:</strong> MERN stack, Stripe API, CQRS Architecture</li>
     <li><strong>Highlights:</strong> 40% surge in conversion rates, 25% decrease in user churn.</li>
 </ul>
-<h4>🔗 <a href="https://github.com/steviesc/sneat-admin">Covilla Journey Website</a></h4>
+<h4>🔗 <a href="https://github.com/steviesc/Portfolio-Covilla">Covilla Journey Website</a></h4>
 <p>A travel agent website, featuring accommodations, transportation, and tour guides.</p>
 <ul>
     <li><strong>Tech Stack:</strong> JavaScript, HTML, and LESS</li>
     <li><strong>Highlights:</strong> it boasts responsive design elements like scrollbars, pagination, and a captivating flip effect with Swiper for an immersive user experience.</li>
 </ul>
-<h4>🔗 <a href="https://github.com/steviesc/sneat-admin">WeatherStack Website</a></h4>
+<h4>🔗 <a href="https://github.com/steviesc/Portfolio-Weatherstack">WeatherStack Website</a></h4>
 <p>A global weather resource to discover real-time weather updates, historical data, and forecasts effortlessly with weatherstack</p>
 <ul>
     <li><strong>Tech Stack:</strong> JavaScript, HTML, and CSS</li>
@@ -93,23 +93,14 @@
 <h1  align="center">&#x1F4EC; Reach me on</h1>
 
 <p align = "center">  
-<a href="https://www.instagram.com/suhasbrao/">
-  <img
-    alt="Instagram"
-    src = "https://cdn-icons-png.flaticon.com/512/174/174855.png"
-    width = 35
-    height = 35
-   />
-</a>
-&emsp;
-<a href="mailto:raos04567@gmail.com?subject=Hello%20Ileri,%20From%20Github">
+<a href="mailto:stellac@bu.edu?subject=Hello%20Ileri,%20From%20Github">
   <img 
     src = "https://cdn-icons-png.flaticon.com/512/732/732200.png"
     width = 35
     height = 35   
  />
 </a>
-&emsp;
+
 <a href="https://in.linkedin.com/in/suhasbrao?trk=profile-badge">
   <img 
     src = "https://cdn-icons-png.flaticon.com/512/145/145807.png"
@@ -117,15 +108,7 @@
     height = 35   
  />
 </a>
-&emsp;
-<a href="https://www.quora.com/profile/Suhas-Rao-66">
-  <img 
-    src = "https://cdn-icons-png.flaticon.com/512/185/185976.png"
-    width = 35
-    height = 35   
- />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+
 </p>
 <br>
 <p align="center">
