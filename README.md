@@ -5,7 +5,7 @@
 <p align="center">
   <br>
   I’m Stella Chen, and I dove into software to mix my knack for analytics with a love for tech.
-  <br>
+  <br><br>
  Currently pursuing my Master's in Software Development at Boston University, I’m all about crafting scalable, efficient apps that users love.
   <br> <br>
 
