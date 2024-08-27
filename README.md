@@ -127,7 +127,8 @@
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-
+<br>
+<img src="https://giphy.com/gifs/universe-spiral-galaxy-star-cluster-vortex-konczakowski-3og0IFrHkIglEOg8Ba">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Monda&weight=600&size=28&duration=3000&pause=200&color=AB89CAF6&background=323F4100&center=true&vCenter=true&multiline=true&width=1000&height=80&lines=%F0%9F%8C%9F+Innovating+Beyond+the+Expected%2C+Coding+Beyond+the+Ordinary" alt="Typing SVG" /></a>
 <!--
 **steviesc/steviesc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
