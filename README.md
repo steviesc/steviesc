@@ -90,7 +90,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Playpen+Sans&weight=600&size=25&pause=1000&color=7E64BDD7&background=323F4100&vCenter=true&multiline=true&width=900&lines=%F0%9F%8C%9F+Innovating+Beyond+the+Expected%2C+Coding+Beyond+the+Ordinary" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Bodoni+Moda&weight=600&size=30&duration=3000&pause=200&color=746455F6&background=323F4100&center=true&vCenter=true&multiline=true&width=900&height=80&lines=%F0%9F%8C%9F+Innovating+Beyond+the+Expected%2C+Coding+Beyond+the+Ordinary" alt="Typing SVG" /></a>
 
 <!--
 **steviesc/steviesc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
