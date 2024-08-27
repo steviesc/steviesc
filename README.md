@@ -9,7 +9,6 @@
   Welcome to my GitHub profile! 
   <br> -->
   I'm Stella Chen, a software developer with a passion for pushing the boundaries of what's possible with code.
-  **i love code**&nbsp;&nbsp;![](cat-typing.gif)&nbsp;&nbsp;**and unicorns**&nbsp;&nbsp;![](unicorn.gif)
   <br>
   I thrive on creating innovative solutions that not only solve problems but also inspire and challenge the status quo.
   <br> <br>
