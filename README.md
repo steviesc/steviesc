@@ -20,7 +20,7 @@
 <p align="center">🥎 Tennis devotee, embracing the sport for both its discipline and joy. </p>
 <p align="center">😎 Tech explorer with a positive mindset and a love for discovery.</p>
 
-
+<br>
 <h1 align="center"> 🛠️ My Core Skills </h1>
 
 <h3 align="center"> :student: Programming Languages</h3>
