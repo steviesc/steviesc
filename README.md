@@ -55,6 +55,45 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+
+<h1  align="center">&#x1F4EC; Reach me on</h1>
+
+<p align = "center">  
+<a href="https://www.instagram.com/suhasbrao/">
+  <img
+    alt="Instagram"
+    src = "https://cdn-icons-png.flaticon.com/512/174/174855.png"
+    width = 35
+    height = 35
+   />
+</a>
+&emsp;
+<a href="mailto:raos04567@gmail.com?subject=Hello%20Ileri,%20From%20Github">
+  <img 
+    src = "https://cdn-icons-png.flaticon.com/512/732/732200.png"
+    width = 35
+    height = 35   
+ />
+</a>
+&emsp;
+<a href="https://in.linkedin.com/in/suhasbrao?trk=profile-badge">
+  <img 
+    src = "https://cdn-icons-png.flaticon.com/512/145/145807.png"
+    width = 35
+    height = 35   
+ />
+</a>
+&emsp;
+<a href="https://www.quora.com/profile/Suhas-Rao-66">
+  <img 
+    src = "https://cdn-icons-png.flaticon.com/512/185/185976.png"
+    width = 35
+    height = 35   
+ />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
 <!--
 **steviesc/steviesc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
