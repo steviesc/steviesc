@@ -9,7 +9,7 @@
   Welcome to my GitHub profile! 
   <br> -->
   I'm Stella Chen, a software developer with a passion for pushing the boundaries of what's possible with code.
-  <img src="https://github.com/steviesc/steviesc/blob/main/cat-typing.gif" alt="Description of GIF" width="50px" />
+  <img src="https://github.com/steviesc/steviesc/blob/main/cat-typing.gif" alt="Description of GIF" width="70px" />
   <br>
   I thrive on creating innovative solutions that not only solve problems but also inspire and challenge the status quo.
   <br> <br>
@@ -18,7 +18,7 @@
 🌱 Student at Boston University, pursuing Master's in Software Development.
 <br>
 ⭐ Lifelong learner, always diving into new challenges and expanding my expertise. &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXJqOGU0bmpuejBlZW0xZzNlbmVrNDVhNGZ4dzlra3h0aGg5dnU2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LkjlH3rVETgsg/giphy.webp" width="50px">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXJqOGU0bmpuejBlZW0xZzNlbmVrNDVhNGZ4dzlra3h0aGg5dnU2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LkjlH3rVETgsg/giphy.webp" width="70px">
 <br>
 🎨 Enthusiast of art and design, with a love for aesthetics in all its forms.  
 🥎 Tennis devotee, embracing the sport for both its discipline and joy. &nbsp;&nbsp;&nbsp;&nbsp;
