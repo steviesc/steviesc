@@ -18,6 +18,7 @@
 🌱 Student at Boston University, pursuing Master's in Software Development.
 <br>
 ⭐ Lifelong learner, always diving into new challenges and expanding my expertise.
+<img src="https://giphy.com/gifs/cat-book-reading-LkjlH3rVETgsg" width="50px">
 <br>
 🎨 Enthusiast of art and design, with a love for aesthetics in all its forms.  
 🥎 Tennis devotee, embracing the sport for both its discipline and joy. &nbsp;&nbsp;&nbsp;&nbsp;
