@@ -73,6 +73,19 @@
     <li><strong>Tech Stack:</strong> MERN stack, Stripe API, CQRS Architecture</li>
     <li><strong>Highlights:</strong> 40% surge in conversion rates, 25% decrease in user churn.</li>
 </ul>
+<h4>🔗 <a href="https://github.com/steviesc/sneat-admin">Covilla Journey Website</a></h4>
+<p>A travel agent website, featuring accommodations, transportation, and tour guides.</p>
+<ul>
+    <li><strong>Tech Stack:</strong> JavaScript, HTML, and LESS</li>
+    <li><strong>Highlights:</strong> it boasts responsive design elements like scrollbars, pagination, and a captivating flip effect with Swiper for an immersive user experience.</li>
+</ul>
+<h4>🔗 <a href="https://github.com/steviesc/sneat-admin">WeatherStack Website</a></h4>
+<p>A global weather resource to discover real-time weather updates, historical data, and forecasts effortlessly with weatherstack</p>
+<ul>
+    <li><strong>Tech Stack:</strong> JavaScript, HTML, and CSS</li>
+    <li><strong>Highlights:</strong> It simplified user experience. Stay informed with the latest weather insights.</li>
+</ul>
+
 <br>
 <h1  align="center">&#x1F4EC; Reach me on</h1>
 
