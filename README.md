@@ -3,6 +3,7 @@
 <h1 align="center"> 👨‍💻 About me </h1>
 
 <p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Playpen+Sans&weight=600&size=27&pause=1000&color=6E7DFB&background=323F4100&vCenter=true&multiline=true&width=900&lines=Hi+there+%F0%9F%91%8B+;Welcome+to+my+GitHub+profile!+" alt="Typing SVG" /></a>
   Hi there 👋 
   <br>
   Welcome to my GitHub profile! 
