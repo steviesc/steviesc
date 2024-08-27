@@ -129,9 +129,8 @@
 </p>
 <br>
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTgzb293YzV5aDkzdWRsc2tldzNrajhoMDhvb29xeTc4MjViNm14MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0IFrHkIglEOg8Ba/giphy.webp" width="360px"  alt="GIF example" >
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTgzb293YzV5aDkzdWRsc2tldzNrajhoMDhvb29xeTc4MjViNm14MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0IFrHkIglEOg8Ba/giphy.webp" width="300px"  alt="GIF example" >
 </p>
-<br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Monda&weight=600&size=28&duration=3000&pause=200&color=AB89CAF6&background=323F4100&center=true&vCenter=true&multiline=true&width=1000&height=80&lines=%F0%9F%8C%9F+Innovating+Beyond+the+Expected%2C+Coding+Beyond+the+Ordinary" alt="Typing SVG" /></a>
 <!--
 **steviesc/steviesc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
