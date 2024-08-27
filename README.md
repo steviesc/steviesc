@@ -39,7 +39,7 @@
 ![SQL](https://img.shields.io/badge/sql-%23000000.svg?style=for-the-badge&logo=sql&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-<br>
+
 
 <h3 align="center">:computer: Software and Tools</h3>
 
