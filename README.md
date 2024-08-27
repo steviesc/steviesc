@@ -111,7 +111,7 @@
 </a>
 &nbsp;&nbsp;
 <a href="https://portfolio-projects-cs.netlify.app/">
-  <img src="https://github.com/steviesc/steviesc/blob/main/2190983_album_binder_circle_folder_portfolio_icon.png" width=35 height = 35   />
+  <img src="https://github.com/steviesc/steviesc/blob/main/1891015_album_binder_circle_folder_portfolio_icon.png" width=35 height = 35   />
 </a>
 &nbsp;&nbsp;
 </p>
