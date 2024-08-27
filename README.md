@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src="https://readme-typing-svg.herokuapp.com?font=Playpen+Sans&weight=600&size=25&pause=1000&color=7E64BDD7&background=323F4164&vCenter=true&multiline=true&width=435&lines=%F0%9F%8C%9F+Innovating+Beyond+the+Expected%2C+Coding+Beyond+the+Ordinary" alt="Typing SVG" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Playpen+Sans&weight=600&size=25&pause=1000&color=7E64BDD7&background=323F4100&vCenter=true&multiline=true&width=800&lines=%F0%9F%8C%9F+Innovating+Beyond+the+Expected%2C+Coding+Beyond+the+Ordinary" alt="Typing SVG" /></a>
 
 <!--
 **steviesc/steviesc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
