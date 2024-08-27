@@ -114,6 +114,7 @@
     width = 35
     height = 35   
  />
+  <img src="https://github.com/steviesc/steviesc/blob/main/portfolio.png" width=35 />
 </a>
 
 </p>
