@@ -3,14 +3,18 @@
 <h1 align="center"> 👨‍💻 About me </h1>
 
 <p align="center">
-  Hi there 👋 Welcome to my GitHub profile! 
+  Hi there 👋 
+  <br>
+  Welcome to my GitHub profile! 
   <br>
   I'm Stella Chen, a software developer with a passion for pushing the boundaries of what's possible with code.
   <br>
- Currently pursuing my Master's in Software Development at Boston University, I’m all about crafting scalable, efficient apps that users love.
+  I thrive on creating innovative solutions that not only solve problems but also inspire and challenge the status quo.
   <br> <br>
 </p>
 
+🌱 Student at Boston University, pursuing pursuing Master's in Software Development.
+<br>
 ⭐ Lifelong learner, always diving into new challenges and expanding my expertise.
 <br>
 🎨 Enthusiast of art and design, with a love for aesthetics in all its forms.  
@@ -19,8 +23,7 @@
 <br>
 😎 Tech explorer with a positive mindset and a love for discovery.
 
-Hi there 👋
-Welcome to my GitHub! I'm **Stella Chen**, a software developer with a passion for pushing the boundaries of what's possible with code. I thrive on creating innovative solutions that not only solve problems but also inspire and challenge the status quo.
+
 
 ## 🛠️ My Core Skills
 
@@ -37,4 +40,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+Hi there 👋
+Welcome to my GitHub! I'm **Stella Chen**, a software developer with a passion for pushing the boundaries of what's possible with code. I thrive on creating innovative solutions that not only solve problems but also inspire and challenge the status quo.
+
 -->
