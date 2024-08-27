@@ -109,12 +109,7 @@
  />
 </a>
 <a href="https://portfolio-projects-cs.netlify.app/">
-  <img 
-    src = "https://icons.veryicon.com/png/o/business/business-finance/portfolio.png"
-    width = 35
-    height = 35   
- />
-  <img src="https://github.com/steviesc/steviesc/blob/main/portfolio.png" width=35 />
+  <img src="https://github.com/steviesc/steviesc/blob/main/portfolio.png" width=35 height = 35   />
 </a>
 
 </p>
