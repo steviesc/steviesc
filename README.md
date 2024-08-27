@@ -17,7 +17,7 @@
 
 🌱 Student at Boston University, pursuing Master's in Software Development.
 <br>
-⭐ Lifelong learner, always diving into new challenges and expanding my expertise.
+⭐ Lifelong learner, always diving into new challenges and expanding my expertise. &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXJqOGU0bmpuejBlZW0xZzNlbmVrNDVhNGZ4dzlra3h0aGg5dnU2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LkjlH3rVETgsg/giphy.webp" width="50px">
 <br>
 🎨 Enthusiast of art and design, with a love for aesthetics in all its forms.  
