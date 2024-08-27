@@ -3,7 +3,7 @@
 <h1 align="center"> 👨‍💻 About me </h1>
 
 <p align="center">
-  I’m Stella Chen, I love programming ![image](https://github.com/user-attachments/assets/da6f8db5-3013-4d01-870e-47dc1f157fe0)
+  I’m Stella Chen, I love programming ![Exciting GIF](https://example.com/my-gif.gif)
 
    <br>
   I dove into software to mix my knack for analytics with a love for tech.
@@ -11,6 +11,11 @@
  Currently pursuing my Master's in Software Development at Boston University, I’m all about crafting scalable, efficient apps that users love.
   <br> <br>
 </p>
+
+⭐ I work on improving my skills in my free time.
+🖌 I'm a pencil artist. (Check out my Instagram profile below)
+🥎 I love playing tennis.
+😎 I am super positive and always look forward to new adventures in tech.
 
 Hi there 👋
 Welcome to my GitHub! I'm **Stella Chen**, a software developer with a passion for pushing the boundaries of what's possible with code. I thrive on creating innovative solutions that not only solve problems but also inspire and challenge the status quo.
