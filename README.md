@@ -18,7 +18,6 @@
 ⭐ Lifelong learner, always diving into new challenges and expanding my expertise.
 <br>
 🎨 Enthusiast of art and design, with a love for aesthetics in all its forms.  
-
 🥎 Tennis devotee, embracing the sport for both its discipline and joy. 
 <br>
 😎 Tech explorer with a positive mindset and a love for discovery.
