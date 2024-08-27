@@ -14,7 +14,7 @@
   <br> <br>
 </p>
 
-🌱 Student at Boston University, pursuing Master's in Software Development.
+<p align="center">🌱 Student at Boston University, pursuing Master's in Software Development.</p>
 <br>
 ⭐ Lifelong learner, always diving into new challenges and expanding my expertise.
 <br>
