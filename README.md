@@ -8,7 +8,6 @@
   <br>
   Currently pursuing my Master's in Software Development at Boston University, I focus on building scalable, efficient, and user-centric applications.
   <br> <br>
-  <img src="https://komarev.com/ghpvc/?username=SuhasBRao&color=green&style=flat" color=blue alt="https://suhasbrao.github.io/" /> 
 
 ## Hi there 👋
 Welcome to my GitHub! I'm **Stella Chen**, a software developer with a passion for pushing the boundaries of what's possible with code. I thrive on creating innovative solutions that not only solve problems but also inspire and challenge the status quo.
