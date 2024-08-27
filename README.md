@@ -56,7 +56,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 <br>
-
+<br>
 <h1 align="center"> 💻 My Projects </h1>
 <h4>🔗 <a href="https://github.com/steviesc/salinaka-e-commerce">Salinaka-e-commerce</a></h4>
 <p>A feature-rich e-commerce platform designed to enhance user experience and boost sales.</p>
