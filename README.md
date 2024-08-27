@@ -8,7 +8,9 @@
   <br>
   Welcome to my GitHub profile! 
   <br> -->
-  I'm Stella Chen, a software developer with a passion for pushing the boundaries of what's possible with code
+  I'm Stella Chen
+  <br>
+  a software developer with a passion for pushing the boundaries of what's possible with code
   <img src="https://github.com/steviesc/steviesc/blob/main/cat-typing.gif" alt="Description of GIF" width="70px" />
   <br>
   I thrive on creating innovative solutions that not only solve problems but also inspire and challenge the status quo
