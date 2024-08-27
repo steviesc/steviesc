@@ -22,6 +22,7 @@
 <br>
 🎨 Enthusiast of art and design, with a love for aesthetics in all its forms.  &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWw2dG56bDhiY3p1MGgyN2w4Ym1uYXppMGhxOHl3d3JyMnNjOGRieSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eurNYYxFUGYxHDfUtZ/giphy.webp" width="70px">
+ <br>
 🥎 Tennis devotee, embracing the sport for both its discipline and joy. &nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZms0bmVyemdidmIxNGw4Z3ZmaWhtYnZ1OXo2N2Fkc3d3Z2Zvbjl0ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7ip546WluP8kfldzEG/giphy.webp" width="70px">
 <br>
