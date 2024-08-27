@@ -2,7 +2,7 @@
 <h1 align="center"> 👨‍💻 Who am i </h1>
 <!-- AC8FCAF6 -->
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Monda&weight=500&size=32&duration=2000&pause=100&color=608CCAF6&background=323F4100&center=true&vCenter=true&multiline=true&width=900&height=80&lines=Hi+there+%F0%9F%91%8B+;+Welcome+to+my+GitHub+profile!+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Monda&weight=500&size=32&duration=2000&pause=100&color=608CCAF6&background=323F4100&center=true&vCenter=true&multiline=true&width=900&height=90&lines=Hi+there+%F0%9F%91%8B+;+Welcome+to+my+GitHub+profile!+" alt="Typing SVG" /></a>
   <br>
 <!--   Hi there 👋 
   <br>
