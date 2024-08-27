@@ -108,6 +108,13 @@
     height = 35   
  />
 </a>
+<a href="https://portfolio-projects-cs.netlify.app/">
+  <img 
+    src = "https://icons.veryicon.com/png/o/business/business-finance/portfolio.png"
+    width = 35
+    height = 35   
+ />
+</a>
 
 </p>
 <br>
