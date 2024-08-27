@@ -3,7 +3,7 @@
 <h1 align="center"> 👨‍💻 About me </h1>
 
 <p align="center">
-  Hi there 👋 Welcome to my GitHub! 
+  Hi there 👋 Welcome to my GitHub profile! 
   <br>
   I'm Stella Chen, a software developer with a passion for pushing the boundaries of what's possible with code.
   <br>
