@@ -15,10 +15,7 @@
 </p>
 
 <p align="center">🌱 Student at Boston University, pursuing Master's in Software Development.</p>
-<br>
 <p align="center">⭐ Lifelong learner, always diving into new challenges and expanding my expertise.</p>
-<br>
-<br>
 🎨 Enthusiast of art and design, with a love for aesthetics in all its forms.  
 🥎 Tennis devotee, embracing the sport for both its discipline and joy. 
 <br>
