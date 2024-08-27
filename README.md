@@ -24,21 +24,7 @@
 😎 Tech explorer with a positive mindset and a love for discovery.
 
 <br>
-<h1 align="center"> 💻 My Projects </h1>
-<h4>🔗 <a href="https://github.com/steviesc/salinaka-e-commerce">Salinaka-e-commerce</a></h4>
-<p>A feature-rich e-commerce platform designed to enhance user experience and boost sales.</p>
-<ul>
-    <li><strong>Tech Stack:</strong> React, Redux, MongoDB, AWS</li>
-    <li><strong>Highlights:</strong> 35% increase in sales revenue, 30% decrease in bounce rates.</li>
-</ul>
 
-<h4>🔗 <a href="https://github.com/steviesc/sneat-admin">Sneat-Admin Website</a></h4>
-<p>A comprehensive admin panel for managing e-commerce operations with a focus on performance and scalability.</p>
-<ul>
-    <li><strong>Tech Stack:</strong> MERN stack, Stripe API, CQRS Architecture</li>
-    <li><strong>Highlights:</strong> 40% surge in conversion rates, 25% decrease in user churn.</li>
-</ul>
-<br>
 <h1 align="center"> 🛠️ My Core Skills </h1>
 <h3 align="center"> :student: Programming Languages</h3>
 
@@ -69,6 +55,22 @@
 ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+<br>
+
+<h1 align="center"> 💻 My Projects </h1>
+<h4>🔗 <a href="https://github.com/steviesc/salinaka-e-commerce">Salinaka-e-commerce</a></h4>
+<p>A feature-rich e-commerce platform designed to enhance user experience and boost sales.</p>
+<ul>
+    <li><strong>Tech Stack:</strong> React, Redux, MongoDB, AWS</li>
+    <li><strong>Highlights:</strong> 35% increase in sales revenue, 30% decrease in bounce rates.</li>
+</ul>
+
+<h4>🔗 <a href="https://github.com/steviesc/sneat-admin">Sneat-Admin Website</a></h4>
+<p>A comprehensive admin panel for managing e-commerce operations with a focus on performance and scalability.</p>
+<ul>
+    <li><strong>Tech Stack:</strong> MERN stack, Stripe API, CQRS Architecture</li>
+    <li><strong>Highlights:</strong> 40% surge in conversion rates, 25% decrease in user churn.</li>
+</ul>
 <br>
 <h1  align="center">&#x1F4EC; Reach me on</h1>
 
