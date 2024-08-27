@@ -25,7 +25,6 @@
 
 <br>
 <h1 align="center"> 💻 My Projects </h1>
-<br>
 <h4>🔗 <a href="https://github.com/steviesc/salinaka-e-commerce">Salinaka-e-commerce</a></h4>
 <p>A feature-rich e-commerce platform designed to enhance user experience and boost sales.</p>
 <ul>
@@ -39,7 +38,7 @@
     <li><strong>Tech Stack:</strong> MERN stack, Stripe API, CQRS Architecture</li>
     <li><strong>Highlights:</strong> 40% surge in conversion rates, 25% decrease in user churn.</li>
 </ul>
-
+<br>
 <h3 align="center"> :student: Programming Languages</h3>
 
 ![Java](https://img.shields.io/badge/java-critical.svg?style=for-the-badge&logo=java3&logoColor=white)
