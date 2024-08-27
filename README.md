@@ -24,8 +24,22 @@
 😎 Tech explorer with a positive mindset and a love for discovery.
 
 <br>
-<h1 align="center"> 🛠️ My Core Skills </h1>
+<h1 align="center"> 💻 My Projects </h1>
 <br>
+<h4>🔗 <a href="https://github.com/steviesc/salinaka-e-commerce">Salinaka-e-commerce</a></h4>
+<p>A feature-rich e-commerce platform designed to enhance user experience and boost sales.</p>
+<ul>
+    <li><strong>Tech Stack:</strong> React, Redux, MongoDB, AWS</li>
+    <li><strong>Highlights:</strong> 35% increase in sales revenue, 30% decrease in bounce rates.</li>
+</ul>
+
+<h4>🔗 <a href="https://github.com/steviesc/sneat-admin">Sneat-Admin Website</a></h4>
+<p>A comprehensive admin panel for managing e-commerce operations with a focus on performance and scalability.</p>
+<ul>
+    <li><strong>Tech Stack:</strong> MERN stack, Stripe API, CQRS Architecture</li>
+    <li><strong>Highlights:</strong> 40% surge in conversion rates, 25% decrease in user churn.</li>
+</ul>
+
 <h3 align="center"> :student: Programming Languages</h3>
 
 ![Java](https://img.shields.io/badge/java-critical.svg?style=for-the-badge&logo=java3&logoColor=white)
@@ -35,7 +49,9 @@
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%23000000.svg?style=for-the-badge&logo=sql&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
 <br>
+
 <h3 align="center">:computer: Software and Tools</h3>
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -53,7 +69,8 @@
 ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
+<br>
+<h1 align="center"> 🛠️ My Core Skills </h1>
 <br>
 <h1  align="center">&#x1F4EC; Reach me on</h1>
 
