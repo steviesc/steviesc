@@ -6,7 +6,7 @@
   <br>
   I'm Stella Chen, I made a bold leap into the world of software development to merge my analytical skills with my love for technology. 
   <br>
-  Studying Software Development at Boston University, I’m all about crafting scalable, efficient apps that users love.
+ Currently pursuing my Master's in Software Development at Boston University, I’m all about crafting scalable, efficient apps that users love.
   <br> <br>
 
 ## Hi there 👋
