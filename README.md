@@ -9,7 +9,7 @@
   Welcome to my GitHub profile! 
   <br> -->
   I'm Stella Chen, a software developer with a passion for pushing the boundaries of what's possible with code
-  <img src="https://github.com/steviesc/steviesc/blob/main/cat-typing.gif" alt="Description of GIF" width="60px" />
+  <img src="https://github.com/steviesc/steviesc/blob/main/cat-typing.gif" alt="Description of GIF" width="80px" />
   <br>
   I thrive on creating innovative solutions that not only solve problems but also inspire and challenge the status quo
   <br> <br>
