@@ -39,6 +39,7 @@
     <li><strong>Highlights:</strong> 40% surge in conversion rates, 25% decrease in user churn.</li>
 </ul>
 <br>
+<h1 align="center"> 🛠️ My Core Skills </h1>
 <h3 align="center"> :student: Programming Languages</h3>
 
 ![Java](https://img.shields.io/badge/java-critical.svg?style=for-the-badge&logo=java3&logoColor=white)
@@ -68,8 +69,6 @@
 ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-<br>
-<h1 align="center"> 🛠️ My Core Skills </h1>
 <br>
 <h1  align="center">&#x1F4EC; Reach me on</h1>
 
