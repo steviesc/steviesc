@@ -93,6 +93,7 @@
 <h1  align="center">&#x1F4EC; Reach me on</h1>
 
 <p align = "center">  
+  
 <a href="mailto:stellac@bu.edu?subject=Hello%20Ileri,%20From%20Github">
   <img 
     src = "https://cdn-icons-png.flaticon.com/512/732/732200.png"
@@ -100,7 +101,7 @@
     height = 35   
  />
 </a>
-
+&nbsp;&nbsp;
 <a href="https://in.linkedin.com/in/suhasbrao?trk=profile-badge">
   <img 
     src = "https://cdn-icons-png.flaticon.com/512/145/145807.png"
@@ -108,10 +109,11 @@
     height = 35   
  />
 </a>
+&nbsp;&nbsp;
 <a href="https://portfolio-projects-cs.netlify.app/">
   <img src="https://github.com/steviesc/steviesc/blob/main/portfolio.png" width=35 height = 35   />
 </a>
-
+&nbsp;&nbsp;
 </p>
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTgzb293YzV5aDkzdWRsc2tldzNrajhoMDhvb29xeTc4MjViNm14MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0IFrHkIglEOg8Ba/giphy.webp" width="300px"  alt="GIF example" >
