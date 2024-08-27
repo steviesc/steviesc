@@ -4,6 +4,7 @@
 
 <p align="center">
   Hi there 👋 Welcome to my GitHub! 
+  <br>
   I'm Stella Chen, a software developer with a passion for pushing the boundaries of what's possible with code.
   <br>
  Currently pursuing my Master's in Software Development at Boston University, I’m all about crafting scalable, efficient apps that users love.
