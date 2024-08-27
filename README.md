@@ -113,7 +113,6 @@
 </a>
 
 </p>
-<br>
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTgzb293YzV5aDkzdWRsc2tldzNrajhoMDhvb29xeTc4MjViNm14MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0IFrHkIglEOg8Ba/giphy.webp" width="300px"  alt="GIF example" >
 </p>
