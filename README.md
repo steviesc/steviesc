@@ -4,7 +4,9 @@
 
 <p align="center">
   <br>
-  I'm Stella Chen, I made a bold leap into the world of software development to merge my analytical skills with my love for technology. 
+  I'm Stella Chen, I love programming.
+  <br>
+  I made a bold leap into the world of software development to merge my analytical skills with my love for technology. 
   <br>
   Currently pursuing my Master's in Software Development at Boston University, I focus on building scalable, efficient, and user-centric applications.
   <br> <br>
