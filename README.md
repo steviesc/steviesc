@@ -14,11 +14,11 @@
   <br> <br>
 </p>
 
-<p align="center">🌱 Student at Boston University, pursuing Master's in Software Development.</p>
-<p align="center">⭐ Lifelong learner, always diving into new challenges and expanding my expertise.</p>
-<p align="center">🎨 Enthusiast of art and design, with a love for aesthetics in all its forms.  </p>
-<p align="center">🥎 Tennis devotee, embracing the sport for both its discipline and joy. </p>
-<p align="center">😎 Tech explorer with a positive mindset and a love for discovery.</p>
+🌱 Student at Boston University, pursuing Master's in Software Development.
+⭐ Lifelong learner, always diving into new challenges and expanding my expertise.
+🎨 Enthusiast of art and design, with a love for aesthetics in all its forms.  
+🥎 Tennis devotee, embracing the sport for both its discipline and joy. 
+😎 Tech explorer with a positive mindset and a love for discovery.
 
 <br>
 <h1 align="center"> 🛠️ My Core Skills </h1>
