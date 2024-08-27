@@ -3,12 +3,12 @@
 <h1 align="center"> 👨‍💻 About me </h1>
 
 <p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Playpen+Sans&size=27&pause=1000&color=AE98B8DF&background=323F4100&vCenter=true&multiline=true&width=900&height=79&lines=Hi+there+%F0%9F%91%8B+;+Welcome+to+my+GitHub+profile!+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Playpen+Sans&size=27&duration=3000&pause=200&color=AE98B8DF&background=323F4100&center=true&vCenter=true&multiline=true&width=900&height=80&lines=Hi+there+%F0%9F%91%8B+;+Welcome+to+my+GitHub+profile!+" alt="Typing SVG" /></a>
   <br>
-  Hi there 👋 
+<!--   Hi there 👋 
   <br>
   Welcome to my GitHub profile! 
-  <br>
+  <br> -->
   I'm Stella Chen, a software developer with a passion for pushing the boundaries of what's possible with code.
   <br>
   I thrive on creating innovative solutions that not only solve problems but also inspire and challenge the status quo.
