@@ -4,6 +4,7 @@
 <p align="center">
 <!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Monda&weight=500&size=35&duration=2000&pause=100&color=608CCAF6&background=323F4100&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Hi+there+%F0%9F%91%8B+;+Welcome+to+my+GitHub+profile!+" alt="Typing SVG" /></a> -->
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Monda&weight=500&size=35&duration=2000&pause=200&color=976E72&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+there+%F0%9F%91%8B+;+Welcome+to+my+GitHub+profile!+" alt="Typing SVG" /></a>
+ <br>
 <!--   Hi there 👋 
   <br>
   Welcome to my GitHub profile! 
